@@ -1,0 +1,18 @@
+﻿@page
+@model IdentityServerAspNetIdentity.Pages.Account.Register.IndexModel
+
+    <h1>Регистрация</h1>
+    <form action="/register" method="post">
+      <label for="name">Имя:</label>
+      <input type="text" id="name" name="name"><br>
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email"><br>
+
+      <label for="password">Пароль:</label>
+      <input type="password" id="password" name="password"><br>
+
+      <input type="submit" value="Зарегистрироваться">
+    </form>
+
+
