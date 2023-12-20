@@ -71,6 +71,14 @@
             "Serilog.AspNetCore": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.6.3, )"
             }
           },
           "imports": [

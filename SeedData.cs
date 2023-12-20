@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Serilog;
 
-namespace IdentityServerAspNetIdentity;
-
+namespace IdentityServerAspNetIdentity
+{ 
 public class SeedData
 {
     public static void EnsureSeedData(WebApplication app)
@@ -84,4 +84,5 @@ public class SeedData
             }
         }
     }
+}
 }

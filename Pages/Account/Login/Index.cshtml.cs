@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using System.Threading.Tasks;
 
 namespace IdentityServerAspNetIdentity.Pages.Login;
 
@@ -42,7 +43,17 @@ public class Index : PageModel
         _identityProviderStore = identityProviderStore;
         _events = events;
     }
-        
+
+    public IActionResult Login(string returnUrl = null)
+    {
+        if (string.IsNullOrEmpty(returnUrl) && HttpContext.Request.Path != "/Account/Register/Index")
+        {
+            returnUrl = "/Account/Register/Index";
+        }
+        ViewData["ReturnUrl"] = returnUrl;
+        return RedirectToPage(returnUrl);
+    }
+
     public async Task<IActionResult> OnGet(string returnUrl)
     {
         await BuildModelAsync(returnUrl);
