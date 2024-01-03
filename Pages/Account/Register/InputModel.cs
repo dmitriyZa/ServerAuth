@@ -9,18 +9,26 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register;
 
 public class InputModel
 {
-    [Required]
+    [Required(ErrorMessage = "Не указана фамилия")]
+    [Display(Name = "Фамилия")]
+    public string LastName { get; set; }
+
+    [Required(ErrorMessage = "Не указано имя")]
     [Display(Name = "Имя")]
-    public string Name { get; set; }    
+    public string Name { get; set; }
 
-    [Required(), MinLength(6,ErrorMessage ="Минимальная длина пароля 6 символов!")]    
+    [Required(ErrorMessage = "Не указано отчество")]
+    [Display(Name = "Отчество")]
+    public string ParentName { get; set; }
+
+    [MinLength(6,ErrorMessage ="Минимальная длина пароля 6 символов!")]        
     [Display(Name ="Пароль")]
-    public string Password { get; set; }
-
-    [Required]
-    [EmailAddress]
-    public string Email { get; set; }
+    [Required(ErrorMessage = "Не указан пароль")]
+    public string Password { get; set; }   
     
+    [EmailAddress(ErrorMessage = "Некорректный адрес")]
+    [Required(ErrorMessage = "Не указан электронный адрес")]
+    public string Email { get; set; }    
     public string ReturnUrl { get; set; }
     
 }

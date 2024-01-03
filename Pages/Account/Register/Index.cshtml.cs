@@ -43,10 +43,12 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register
             {
                 var user = new ApplicationUser()
                 {
-                    UserName = Input.Email,
+                    UserName = Input.Email,  
                     Email = Input.Email,
                     EmailConfirmed = true,
+                    LastName = Input.LastName,
                     Name = Input.Name,
+                    ParentName = Input.ParentName,
                 };
 
                 var result = await _userManager.CreateAsync(user, Input.Password);
@@ -55,7 +57,9 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register
                 {
                                   
                         await _userManager.AddClaimsAsync(user, new Claim[] {
+                        new Claim(JwtClaimTypes.FamilyName,Input.LastName),
                         new Claim(JwtClaimTypes.Name,Input.Name),
+                        new Claim(JwtClaimTypes.GivenName,Input.ParentName),
                         new Claim(JwtClaimTypes.Email,Input.Email)
                         
                     });
@@ -71,24 +75,20 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register
                         }
                         else if (string.IsNullOrEmpty(Input.ReturnUrl))
                         {
-                            return Redirect("~/");
+                            return Redirect("~/Account/login");
                         }
                         else
                         {
                             throw new Exception("invalid return URL");
                         }
-
                     }
-
                 }
-
-                //else {
-                //    result.Errors.ToList().ForEach(error =>error.Description =
-                // }
-                    
+                else
+                {
+                    ModelState.AddModelError("Password","В пароле должна быть заглавная буква и спец символы #@!");
+                }
             }
-            return Page();
-        
+            return Page();        
     }
     }
 }

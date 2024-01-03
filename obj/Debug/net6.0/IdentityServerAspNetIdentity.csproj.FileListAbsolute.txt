@@ -73,7 +73,7 @@ C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity
 C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\obj\Debug\net6.0\IdentityServerAspNetIdentity.pdb
 C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\obj\Debug\net6.0\IdentityServerAspNetIdentity.genruntimeconfig.cache
 C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\bin\Debug\net6.0\keys\is-signing-key-4A9749617E5B7E84E302F05E1455B7FC.json
-C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\obj\Debug\net6.0\IdentityServerAspNetIdentity.csproj.AssemblyReference.cache
 C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\bin\Debug\net6.0\xunit.abstractions.dll
 C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\bin\Debug\net6.0\xunit.core.dll
 C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\bin\Debug\net6.0\xunit.execution.dotnet.dll
+C:\Users\zagariy_ds\Desktop\repos\WebDesktop\Server\IdentityServerAspNetIdentity\obj\Debug\net6.0\IdentityServerAspNetIdentity.csproj.AssemblyReference.cache

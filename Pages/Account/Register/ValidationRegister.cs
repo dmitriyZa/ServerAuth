@@ -6,7 +6,7 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register
     {
         //public override bool IsValid(object? value)
         //{
-        //    if (value is string Password)
+        //    if (!IndexModel)
         //    {
         //        if (Validator.)    // если имя не равно admin
         //            return true;
