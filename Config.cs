@@ -38,8 +38,7 @@ public static class Config
             new Client
             {
                 ClientId = "web",
-                ClientSecrets = { new Secret("secret".Sha256()) },
-
+                ClientSecrets = { new Secret("secret".Sha256()) },               
                 AllowedGrantTypes = GrantTypes.Code,
                     
                 // where to redirect to after login

@@ -75,7 +75,7 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register
                         }
                         else if (string.IsNullOrEmpty(Input.ReturnUrl))
                         {
-                            return Redirect("~/Account/login");
+                            return Redirect("https://localhost:5004/");
                         }
                         else
                         {
