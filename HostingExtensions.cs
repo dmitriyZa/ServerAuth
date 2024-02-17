@@ -36,7 +36,7 @@ internal static class HostingExtensions
             })
             .AddInMemoryIdentityResources(Config.IdentityResources)
             .AddInMemoryApiScopes(Config.ApiScopes)
-            .AddInMemoryClients(Config.Clients)
+            .AddInMemoryClients(builder.Configuration.GetSection("IdentityServer:Clients"))
             .AddAspNetIdentity<ApplicationUser>();
       
             //.AddGoogle(options =>
