@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LN2LVa968r0fdTo8I8RZVaZUG7zQHtWteSj9/jd57gvPgjGqF2knBDk/degmMLisGfvNXAKfC8lN9VIdq+6Y4g==",
+  "dgSpecHash": "9wxZ7KnZpO6A8BklMeyFKwdCyJzZ3cki2KlHGt5FhO7LUT5AmrYmKVquUzYt/gQoHnRivugygrHnMFg/yaiT6A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj",
+  "projectFilePath": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\IdentityServerAspNetIdentity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\duende.identityserver\\6.3.2\\duende.identityserver.6.3.2.nupkg.sha512",
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\duende.identityserver.aspnetidentity\\6.3.2\\duende.identityserver.aspnetidentity.6.3.2.nupkg.sha512",
@@ -52,6 +52,7 @@
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\zagariy_ds\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\zagariy_ds\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

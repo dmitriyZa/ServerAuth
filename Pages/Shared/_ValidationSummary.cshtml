@@ -1,7 +1,17 @@
-﻿@if (ViewContext.ModelState.IsValid == false)
-{
-    <div class="alert alert-danger">
-        <strong>Ошибка</strong>
-        <div asp-validation-summary="All" class="danger"></div>
-    </div>
-}
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- другие теги head -->
+</head>
+<body>
+    @if (ViewContext.ModelState.IsValid == false)
+    {
+        <div class="alert alert-danger">
+            <strong>Ошибка</strong>
+            <div asp-validation-summary="All" class="danger"></div>
+        </div>
+    }
+    <!-- остальной HTML-код -->
+</body>
+</html>

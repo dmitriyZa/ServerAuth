@@ -1,10 +1,6 @@
 ﻿@page
 @model IdentityServerAspNetIdentity.Pages.Account.Register.IndexModel
-@{
-
-   <div>
-    <partial name="_ValidationSummary" />
-
+@{   
     <div class="row">
         <div class="col-sm-12 col-lg-6 offset-lg-3">
             <div class="card">
@@ -12,29 +8,32 @@
                     <h2>Регистрация</h2>
                 </div>
                 <div class="card-body">
-                    <form asp-route="Register">
+                    <form asp-route="Register" onsubmit="return validatePassword()">
                         <input type="hidden" asp-for="Input.ReturnUrl" />
                         <div class="form-group">
-                            <label asp-for="Input.Email"></label>
+                            <label asp-for="Input.Email">Email</label>
                             <input class="form-control" placeholder="Email" asp-for="Input.Email" autofocus>
+                             <span asp-validation-for="Input.Email" class="alert-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label asp-for="Input.LastName"></label>
+                            <label asp-for="Input.LastName">Фамилия</label>
                             <input class="form-control" placeholder="Фамилия" asp-for="Input.LastName" autofocus>
+                             <span asp-validation-for="Input.LastName" class="alert-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label asp-for="Input.Name"></label>
+                            <label asp-for="Input.Name">Имя</label>
                             <input class="form-control" placeholder="Имя" asp-for="Input.Name" autofocus>
+                             <span asp-validation-for="Input.Name" class="alert-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label asp-for="Input.ParentName"></label>
+                            <label asp-for="Input.ParentName">Отчество</label>
                             <input class="form-control" placeholder="Отчество" asp-for="Input.ParentName" autofocus>
+                             <span asp-validation-for="Input.ParentName" class="alert-danger"></span>
                         </div>
                         <div class="form-group">
-                            <label asp-for="Input.Password"></label>
-                            <input type="password" class="form-control" placeholder="Пароль"
-                                   asp-for="Input.Password" autofocus>  
-                              
+                            <label asp-for="Input.Password">Пароль</label>
+                            <input type="password" class="form-control" placeholder="Пароль" asp-for="Input.Password" autofocus>  
+                               <span asp-validation-for="Input.Password" class="alert-danger"></span>
                         </div>                       
                         <button type="submit" class="btn btn-primary" name="button" value="register">Зарегистрировать</button>
                     </form>
@@ -46,7 +45,6 @@
         </div>
     </div>
 
-</div>
 }
 
 

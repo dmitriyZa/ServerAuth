@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aNX7xq8p44zxRmbYFIhbVrgaoTp1/9+YchkN/rt4/n8=",
+  "Hash": "YOce6esgdGsAZGbqAa50RpqeEcJJCXOddSgMmqjf/E4=",
   "Source": "IdentityServerAspNetIdentity",
   "BasePath": "_content/IdentityServerAspNetIdentity",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "IdentityServerAspNetIdentity\\wwwroot",
       "Source": "IdentityServerAspNetIdentity",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\zagariy_ds\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.0\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\css\\site.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\css\\site.min.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\css\\site.min.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "css/site.min.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.min.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\css\\site.scss",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\css\\site.scss",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "css/site.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.scss"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\duende-logo.svg",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\duende-logo.svg",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "duende-logo.svg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\duende-logo.svg"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\favicon.ico",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\js\\signin-redirect.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\js\\signin-redirect.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "js/signin-redirect.js",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\js\\signin-redirect.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\js\\signout-redirect.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\js\\signout-redirect.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "js/signout-redirect.js",
       "AssetKind": "All",
@@ -1156,10 +1156,27 @@
       "OriginalItemSpec": "wwwroot\\js\\signout-redirect.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\js\\validationPass.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
+      "BasePath": "_content/IdentityServerAspNetIdentity",
+      "RelativePath": "js/validationPass.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\validationPass.js"
+    },
+    {
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "IdentityServerAspNetIdentity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap\\README.md",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap\\README.md",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap/README.md",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\README.md"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.css",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\css\\bootstrap-glyphicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/fonts/glyphicons/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\fonts\\glyphicons\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/LICENSE",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.css",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.less",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.less"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap4-glyphicons\\maps\\glyphicons-fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/dist/jquery.slim.js",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.js",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/dist/jquery.slim.min.map",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\lib\\jquery\\README.md",
+      "Identity": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\lib\\jquery\\README.md",
       "SourceId": "IdentityServerAspNetIdentity",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\wwwroot\\",
       "BasePath": "_content/IdentityServerAspNetIdentity",
       "RelativePath": "lib/jquery/README.md",
       "AssetKind": "All",

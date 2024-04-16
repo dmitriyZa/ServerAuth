@@ -75,7 +75,7 @@ namespace IdentityServerAspNetIdentity.Pages.Account.Register
                         }
                         else if (string.IsNullOrEmpty(Input.ReturnUrl))
                         {
-                            return Redirect("https://localhost:5004/");
+                            return Redirect(Environment.GetEnvironmentVariable("WEB_ClIENT_IP"));
                         }
                         else
                         {

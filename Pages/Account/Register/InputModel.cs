@@ -3,7 +3,7 @@
 
 
 using System.ComponentModel.DataAnnotations;
-
+using System.Text.RegularExpressions;
 
 namespace IdentityServerAspNetIdentity.Pages.Account.Register;
 
@@ -21,6 +21,7 @@ public class InputModel
     [Display(Name = "Отчество")]
     public string ParentName { get; set; }
 
+    [CustomPassword(ErrorMessage = "Некорректный пароль")]
     [MinLength(6,ErrorMessage ="Минимальная длина пароля 6 символов!")]        
     [Display(Name ="Пароль")]
     [Required(ErrorMessage = "Не указан пароль")]
@@ -31,4 +32,29 @@ public class InputModel
     public string Email { get; set; }    
     public string ReturnUrl { get; set; }
     
+}
+
+public class CustomPasswordAttribute : ValidationAttribute
+{
+    public override bool IsValid(object value)
+    {
+        var password = value as string;
+        if (password != null)
+        {
+            // Проверяем наличие хотя бы одной заглавной буквы
+            if (!Regex.IsMatch(password, "[A-Z]"))
+            {
+                ErrorMessage = "Пароль должен содержать хотя бы одну заглавную букву";
+                return false;
+            }
+
+            // Проверяем наличие хотя бы одного из специальных символов #@!?
+            if (!Regex.IsMatch(password, "[#@!?]"))
+            {
+                ErrorMessage = "Пароль должен содержать хотя бы один из специальных символов: #@!?";
+                return false;
+            }
+        }
+        return true;
+    }
 }

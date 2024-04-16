@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj": {}
+    "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\IdentityServerAspNetIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj": {
+    "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\IdentityServerAspNetIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\IdentityServerAspNetIdentity.csproj",
         "projectName": "IdentityServerAspNetIdentity",
-        "projectPath": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\IdentityServerAspNetIdentity.csproj",
+        "projectPath": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\IdentityServerAspNetIdentity.csproj",
         "packagesPath": "C:\\Users\\zagariy_ds\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server\\IdentityServerAspNetIdentity\\obj\\",
+        "outputPath": "C:\\Users\\zagariy_ds\\Desktop\\repos\\WebDesktop\\Server2\\ServerAuth\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zagariy_ds\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -67,6 +67,10 @@
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
